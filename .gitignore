@@ -1,0 +1,22 @@
+# Build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Rider
+.idea/
+
+# EF Core — snapshot é versionado, mas não os binários
+*.db
+*.db-shm
+*.db-wal
+
+# Ambiente
+appsettings.Development.json
+
+# Publicacao
+publish/

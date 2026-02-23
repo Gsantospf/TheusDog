@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="TheusDog.Api/TheusDog.Api.csproj" />
+  <Project Path="TheusDog.Application/TheusDog.Application.csproj" />
+  <Project Path="TheusDog.Core/TheusDog.Core.csproj" />
+  <Project Path="TheusDog.Infrastructure/TheusDog.Infrastructure.csproj" />
+</Solution>
